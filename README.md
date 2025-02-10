@@ -23,7 +23,7 @@ Tool |  ANTLR https://www.antlr.org/
 
 Serial| Date |Topic | Contents | Lecture | Assignment
 ---|---|---|---|---|---
-1| 2/10 | Introduction |Complier vs Interpreter, Compiler Structure: scanner, parser, intermediate representation, optimizer, back-end  | Lecture 1 | Assignment 1
+1| 2/10 | Introduction |Complier vs Interpreter, Compiler Structure: scanner, parser, intermediate representation, optimizer, back-end  | [Lecture 1](Lectures/lec1.md) | Assignment 1
 2| 2/17||||
 3| 2/24||||
 4|3/3||||
