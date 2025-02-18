@@ -23,8 +23,8 @@ Tool |  ANTLR https://www.antlr.org/
 
 Serial| Date |Topic | Contents | Lecture | Assignment
 ---|---|---|---|---|---
-1| 2/10 | Introduction |Complier vs Interpreter, Compiler Structure: scanner, parser, intermediate representation, optimizer, back-end  | [Lecture 1](Lectures/lec1.md) | [Assignment 1](Assignments/assign1.md)
-2| 2/17||||
+1| 2/10 | Introduction |Compiler vs Interpreter, Compiler Structure: scanner, parser, intermediate representation, optimizer, back-end  | [Lecture 1](Lectures/lec1.md) | [Assignment 1](Assignments/assign1.md)
+2| 2/17|Scanner|Finite Automaton (DFA and NFA), How to build a scanner|[Lecture 2](Lectures/lec2.md) | [Assignment 2](Assignments/assign2.md)
 3| 2/24||||
 4|3/3||||
 5|3/10||||
