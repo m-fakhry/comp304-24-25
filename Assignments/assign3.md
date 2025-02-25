@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 3
 
 1. From the supplementary book read (p 111-114), (p 120-124) and (p 128-135)
     - 3.1.2 (Tokens, Patterns, and Lexemes), 3.1.3 (Attributes for Tokens), 3.1.4 (Lexical Errors) 
