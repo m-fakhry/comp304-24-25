@@ -1,7 +1,8 @@
 # Assignment 4
 
+1. Read more about CFG, left/right derivation, ambiguous grammar, left/right recursion. Section 3.2.2 (Context-Free Grammars), 3.2.3 (More Complex Examples), 3.2.4 (Encoding Meaning into Structure).
 
-3. **(Lab)** Continue working on the previous assignment to implement a scanner based on automaton defined in text files.
+2. **(Lab)** Continue working on the previous assignment to implement a scanner based on automaton defined in text files.
     
     - Objective: 
         - When change the automaton (text files) the implementation of the scanner does not change, i.e., the user of your scanner implementation does not need to look at the code when the user changes the automaton because the automaton is described in external configuration (text) files.
