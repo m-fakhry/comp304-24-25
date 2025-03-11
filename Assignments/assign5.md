@@ -43,6 +43,8 @@ Implement a parser to describe the language $ba^*$.
 
 - Read list of tokens from a text file. What would be the data structure for list of tokens. 
 
+- Understand CFG and problems of left-recursive grammar. 
+
 
 ## Optional - Lab 
 
