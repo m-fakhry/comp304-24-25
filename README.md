@@ -27,7 +27,7 @@ Serial| Date |Topic | Contents | Lecture | Assignment
 2| 2/17|Scanner|Finite Automaton (DFA and NFA), How to build a scanner|[Lecture 2](Lectures/lec2.md) | [Assignment 2](Assignments/assign2.md)
 3| 2/24|Scanner|RE, RE to NFA to DFA, Implementation of Scanner|[Lecture 3](Lectures/lec3.md) | [Assignment 3](Assignments/assign3.md)
 4|3/3|Open Discussion|Lecture vs Assignment|[Lecture 4](Lectures/lec4.md) | [Assignment 4](Assignments/assign4.md)
-5|3/10||||
+5|3/10|Parser|CFG, Left-recursive, top-down parser, recursive descend|[Lecture 5](Lectures/lec5.md) | [Assignment 5](Assignments/assign5.md)
 6| 3/17||||
 &#65279;|3/24|Midterm exam|||
 &#65279;|3/31|Day off|||
