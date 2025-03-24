@@ -1,8 +1,8 @@
-# Lecture 5
+# Lecture 6
 
 ## Grammar
 
-- how to eliminate the left-factoring
+- how to left-factor the grammar (remove common prefixes)
 
 ## Parser
 

@@ -27,7 +27,7 @@
 
 ####  Lab 
 
-- Implement a parser using predictive table for the above grammar.
+- Implement a parser using predictive table for the above (mathematical expressions) grammar.
 
     - Assume that the predictive parsing table for the above grammar is stored in a text file. You can build the table manually abd save it in a text file `parse_table.txt`.
 
@@ -38,3 +38,14 @@
     - Implement a parser that reads the string from the `scanner_output.txt` file and apply the rules from the predictive parsing table. 
 
     - Apply the parser on each string `id + (id - id) / id` and `id + (id - id) id` to check if the input strings are valid. 
+
+    **Objectives**:
+
+    - Test whether LL(1) grammar can be used. 
+        - Validate the parser implementation by using CFG that is LL(1) and see if the program works correctly 
+        
+    **Skills**:
+
+    - Read table of rules from a text file. What would be the suitable data structure. 
+
+    - Understand parsing based on predefined rules from table. 
