@@ -12,3 +12,29 @@
     ```
 
 - validate your parser on the string `id + (id - id) / id`. 
+
+## New Assignment 
+
+#### Paper 
+
+- From the supplementary book, 
+
+    - read section 4.4.1 Recursive-Descent Parsing, 4.4.2 FIRST and FOLLOW, 4.4.3 LL(1) Grammars (p 219-226).
+
+    - solve exercise 4.4.1 (p 231).
+
+- (Optional) From the main book, read sections 3.3.1 Transforming a Grammar for Top-Down Parsing (p 98-108), 3.3.2 Top-Down Recursive-Descent Parsers (p 108-110), 3.3.3 Table-Driven LL(1) Parsers (p 110-115).
+
+####  Lab 
+
+- Implement a parser using predictive table for the above grammar.
+
+    - Assume that the predictive parsing table for the above grammar is stored in a text file. You can build the table manually abd save it in a text file `parse_table.txt`.
+
+    - Assume the output of the scanner is stored in `scanner_output.txt`. 
+
+    - Implement a function to read the parsing table from the text file. 
+
+    - Implement a parser that reads the string from the `scanner_output.txt` file and apply the rules from the predictive parsing table. 
+
+    - Apply the parser on each string `id + (id - id) / id` and `id + (id - id) id` to check if the input strings are valid. 
