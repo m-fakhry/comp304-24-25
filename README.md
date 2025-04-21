@@ -29,10 +29,10 @@ Serial| Date |Topic | Contents | Lecture | Assignment
 4|3/3|Open Discussion|Lecture vs Assignment|[Lecture 4](Lectures/lec4.md) | [Assignment 4](Assignments/assign4.md)
 5|3/10|Top-down Parser|CFG, Left-recursive, top-down parser, recursive descend|[Lecture 5](Lectures/lec5.md) | [Assignment 5](Assignments/assign5.md)
 6| <s>3/17</s> 3/20|Top-down Parser|Backtracking, FIRST and FOLLOW sets, predictive parsing table, LL(1) grammar |[Lecture 6](Lectures/lec6.md)|[Assignment 6](Assignments/assign6.md)
-&#65279;|3/24|Midterm exam|||
+7|3/24|Midterm exam|||
 &#65279;|3/31|Day off|||
-7| 4/7||||
-8| 4/14||||
+8| 4/7|Review Midterm| Review midterm exam||
+9| 4/14|Bottom-up Parser| Reduction, right-most derivation, shift-reduce parser, conflicts|[Lecture 7](Lectures/lec7.md) | [Assignment 7](Assignments/assign7.md)
 &#65279;| 4/21|Day off|||
-9| 4/28||||
+10| 4/28||||
 Week of 5/3 or 5/10|Lab Final|||
