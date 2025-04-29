@@ -34,5 +34,5 @@ Serial| Date |Topic | Contents | Lecture | Assignment
 8| 4/7|Review Midterm| Review midterm exam||
 9| 4/14|Bottom-up Parser| Reduction, right-most derivation, shift-reduce parser, conflicts|[Lecture 7](Lectures/lec7.md) | [Assignment 7](Assignments/assign7.md)
 &#65279;| 4/21|Day off|||
-10| 4/28||||
-Week of 5/3 or 5/10|Lab Final|||
+10| 4/28|Bottom-up parser| Canonical item set, automaton, parsing tables, LR(0) and LR(1)|[Lecture 8](Lectures/lec8.md) | [Assignment 8](Assignments/assign8.md)
+5/12|Lab Final|||
