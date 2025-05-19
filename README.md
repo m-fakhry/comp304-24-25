@@ -15,7 +15,7 @@ Book | "_Engineering a Compiler_", Second Edition, Keith D. Cooper, Linda Torczo
 Supplementary Book|"_Compilers - Principles, Techniques, and Tools_", Second Edition, Alfred Aho, Monica Lam, Ravi Sethi, Jeffrey Ullman, 2014 
 Objective | Design and implement compilers
 Skills | Programming languages, data structure, machine architecture, language theory, algorithms, and software engineering.
-Tool |  [ANTLR](https://www.antlr.org/), [this link for computing First and Follow sets](https://www.usna.edu/Users/cs/wcbrown/courses/Su20SI413/firstFollowPredict/ffp.html), [SLR parser](https://jsmachines.sourceforge.net/machines/slr.html)
+Tool |  [ANTLR](https://www.antlr.org/), [this link for computing First and Follow sets](https://www.usna.edu/Users/cs/wcbrown/courses/Su20SI413/firstFollowPredict/ffp.html), [SLR parser](https://jsmachines.sourceforge.net/machines/slr.html), [LR parsers](https://light0x00.github.io/parser-generator/)
 
 ---
 
